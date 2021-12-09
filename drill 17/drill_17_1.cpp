@@ -1,9 +1,7 @@
 //
 // Created by György Mitró on 2021. 12. 09..
 //
-#include <iostream>
-#include <stdexcept>
-#include <vector>
+#include "std_lib_facilities.h"
 
 using namespace std;
 
